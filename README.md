@@ -1,1 +1,2 @@
-# Spring-Boot-Projects
+# 스프링 부트와 JPA 연습 
+#### Spring Boot와 JPA의 이론적인 개념을 공부하고 실전적인 프로그래밍 실력을 길러내기 위해 만든 저장소
